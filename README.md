@@ -32,7 +32,7 @@ penguins-classification/
 │   ├── penguin_app.py
 ├── pyproject.toml              # Configuración de dependencias con Poetry
 ├── README.md                   # Este archivo
-
+```
 
 ## Instalación
 
